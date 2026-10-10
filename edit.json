@@ -1,0 +1,47 @@
+{
+  "fps": 30,
+  "durationInFrames": 966,
+  "durationSeconds": 32.2,
+  "clips": [
+    {
+      "name": "Хук — новые краски",
+      "sourceStartFrame": 2120,
+      "durationInFrames": 66
+    },
+    {
+      "name": "Контекст",
+      "sourceStartFrame": 24,
+      "durationInFrames": 198
+    },
+    {
+      "name": "Наклейки",
+      "sourceStartFrame": 258,
+      "durationInFrames": 96
+    },
+    {
+      "name": "Личная история",
+      "sourceStartFrame": 811,
+      "durationInFrames": 49
+    },
+    {
+      "name": "Моя компания",
+      "sourceStartFrame": 866,
+      "durationInFrames": 242
+    },
+    {
+      "name": "Продолжение истории",
+      "sourceStartFrame": 1132,
+      "durationInFrames": 191
+    },
+    {
+      "name": "Верхушка айсберга",
+      "sourceStartFrame": 1551,
+      "durationInFrames": 73
+    },
+    {
+      "name": "Финальная мысль",
+      "sourceStartFrame": 2376,
+      "durationInFrames": 51
+    }
+  ]
+}

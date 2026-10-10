@@ -1,0 +1,11 @@
+import {build} from 'esbuild';
+import fs from 'node:fs';
+
+const result = await build({entryPoints:['preview.tsx'], bundle:true, minify:true, write:false, platform:'browser', format:'iife', jsx:'automatic', define:{'process.env.NODE_ENV':'"production"'}});
+const assets={video:fs.readFileSync('public/source.mp4').toString('base64'),font:fs.readFileSync('public/captions-bold.woff2').toString('base64')};
+const html=`<!doctype html><html lang="ru"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" href="data:,"><title>Личная история — предпросмотр</title><style>
+*{box-sizing:border-box}body{margin:0;background:#0b0b10;color:#f5f4fa;font-family:Arial,sans-serif;min-height:100vh;display:flex;justify-content:center;align-items:center;padding:28px}main{display:flex;align-items:center;gap:64px}aside{width:310px}small{color:#c1a9ed;font-size:12px;letter-spacing:3px;font-weight:700}h1{font-size:42px;line-height:1.05;letter-spacing:-1.5px;margin:22px 0}p{color:#b8b6c1;font-size:16px;line-height:1.65}#player{width:min(430px,calc((100vh - 56px)*9/16));aspect-ratio:9/16;border-radius:20px;overflow:hidden;box-shadow:0 30px 80px #0007;outline:1px solid #ffffff20}.tag{display:inline-block;border:1px solid #ffffff20;border-radius:30px;padding:8px 14px;margin-right:8px;font-size:13px}.hint{font-size:13px;margin-top:30px;color:#8c8999}@media(max-width:800px){body{padding:18px}main{flex-direction:column;gap:20px}aside{width:100%;text-align:center}h1{font-size:28px;margin:12px 0}p{margin:8px 0}.hint{display:none}#player{width:min(430px,calc((100vh - 185px)*9/16))}}
+</style></head><body><main><aside><small>REMOTION · ПРЕДПРОСМОТР</small><h1>Личная<br>история</h1><p>Короткий монтаж с субтитрами<br>и анимированными акцентами.</p><span class="tag">32,2 секунды</span><span class="tag">9:16</span><p class="hint">Нажмите ▶ для просмотра со звуком.<br>Шкала позволяет перейти к любому моменту.</p></aside><div id="player"></div></main><script id="assets" type="application/json">${JSON.stringify(assets)}</script><script>${result.outputFiles[0].text.replaceAll('</script','<\\/script')}</script></body></html>`;
+fs.mkdirSync('out',{recursive:true});
+fs.writeFileSync('out/preview.html',html);
+console.log('Saved out/preview.html:',(Buffer.byteLength(html)/1048576).toFixed(1),'MiB');

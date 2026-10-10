@@ -1,0 +1,593 @@
+[
+  {
+    "text": " Моя",
+    "startMs": 13,
+    "endMs": 393,
+    "timestampMs": 203,
+    "confidence": null
+  },
+  {
+    "text": " история",
+    "startMs": 393,
+    "endMs": 653,
+    "timestampMs": 523,
+    "confidence": null
+  },
+  {
+    "text": " приобретает",
+    "startMs": 653,
+    "endMs": 1293,
+    "timestampMs": 973,
+    "confidence": null
+  },
+  {
+    "text": " новые",
+    "startMs": 1293,
+    "endMs": 1513,
+    "timestampMs": 1403,
+    "confidence": null
+  },
+  {
+    "text": " краски,",
+    "startMs": 1513,
+    "endMs": 2013,
+    "timestampMs": 1763,
+    "confidence": null
+  },
+  {
+    "text": " Ну",
+    "startMs": 2220,
+    "endMs": 2400,
+    "timestampMs": 2310,
+    "confidence": null
+  },
+  {
+    "text": " что,",
+    "startMs": 2400,
+    "endMs": 2560,
+    "timestampMs": 2480,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " ни",
+    "startMs": 2560,
+    "endMs": 2700,
+    "timestampMs": 2630,
+    "confidence": null
+  },
+  {
+    "text": " для",
+    "startMs": 2700,
+    "endMs": 2940,
+    "timestampMs": 2820,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " кого",
+    "startMs": 2940,
+    "endMs": 3180,
+    "timestampMs": 3060,
+    "confidence": null
+  },
+  {
+    "text": " уже",
+    "startMs": 3180,
+    "endMs": 3340,
+    "timestampMs": 3260,
+    "confidence": null
+  },
+  {
+    "text": " не",
+    "startMs": 3340,
+    "endMs": 3540,
+    "timestampMs": 3440,
+    "confidence": null
+  },
+  {
+    "text": " секрет,",
+    "startMs": 3540,
+    "endMs": 3820,
+    "timestampMs": 3680,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " что",
+    "startMs": 3920,
+    "endMs": 4880,
+    "timestampMs": 4400,
+    "confidence": null
+  },
+  {
+    "text": " патриотическая",
+    "startMs": 4880,
+    "endMs": 5560,
+    "timestampMs": 5220,
+    "confidence": null
+  },
+  {
+    "text": " организация",
+    "startMs": 5560,
+    "endMs": 6300,
+    "timestampMs": 5930,
+    "confidence": null
+  },
+  {
+    "text": " «Оплот",
+    "startMs": 6460,
+    "endMs": 6800,
+    "timestampMs": 6630,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Родины»",
+    "startMs": 6800,
+    "endMs": 7460,
+    "timestampMs": 7130,
+    "confidence": null
+  },
+  {
+    "text": " превратилась",
+    "startMs": 7460,
+    "endMs": 7980,
+    "timestampMs": 7720,
+    "confidence": null
+  },
+  {
+    "text": " в",
+    "startMs": 7980,
+    "endMs": 8100,
+    "timestampMs": 8040,
+    "confidence": null
+  },
+  {
+    "text": " её",
+    "startMs": 8100,
+    "endMs": 8380,
+    "timestampMs": 8240,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " помёт.",
+    "startMs": 8380,
+    "endMs": 8640,
+    "timestampMs": 8510,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " У",
+    "startMs": 8860,
+    "endMs": 8920,
+    "timestampMs": 8890,
+    "confidence": null
+  },
+  {
+    "text": " нас",
+    "startMs": 8920,
+    "endMs": 9140,
+    "timestampMs": 9030,
+    "confidence": null
+  },
+  {
+    "text": " люди",
+    "startMs": 9140,
+    "endMs": 9420,
+    "timestampMs": 9280,
+    "confidence": null
+  },
+  {
+    "text": " массово",
+    "startMs": 9420,
+    "endMs": 9820,
+    "timestampMs": 9620,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " снимают",
+    "startMs": 9820,
+    "endMs": 10280,
+    "timestampMs": 10050,
+    "confidence": null
+  },
+  {
+    "text": " наклейки",
+    "startMs": 10280,
+    "endMs": 10620,
+    "timestampMs": 10450,
+    "confidence": null
+  },
+  {
+    "text": " с",
+    "startMs": 10620,
+    "endMs": 10860,
+    "timestampMs": 10740,
+    "confidence": null
+  },
+  {
+    "text": " автомобилей.",
+    "startMs": 10860,
+    "endMs": 11840,
+    "timestampMs": 11350,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Я",
+    "startMs": 12007,
+    "endMs": 12107,
+    "timestampMs": 12057,
+    "confidence": null
+  },
+  {
+    "text": " не",
+    "startMs": 12107,
+    "endMs": 12287,
+    "timestampMs": 12197,
+    "confidence": null
+  },
+  {
+    "text": " могу",
+    "startMs": 12287,
+    "endMs": 12467,
+    "timestampMs": 12377,
+    "confidence": null
+  },
+  {
+    "text": " скрывать,",
+    "startMs": 12467,
+    "endMs": 13527,
+    "timestampMs": 12997,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Что",
+    "startMs": 13647,
+    "endMs": 13727,
+    "timestampMs": 13687,
+    "confidence": null
+  },
+  {
+    "text": " у",
+    "startMs": 13727,
+    "endMs": 13807,
+    "timestampMs": 13767,
+    "confidence": null
+  },
+  {
+    "text": " меня",
+    "startMs": 13807,
+    "endMs": 14067,
+    "timestampMs": 13937,
+    "confidence": null
+  },
+  {
+    "text": " тоже",
+    "startMs": 14067,
+    "endMs": 14207,
+    "timestampMs": 14137,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " как",
+    "startMs": 14207,
+    "endMs": 14327,
+    "timestampMs": 14267,
+    "confidence": null
+  },
+  {
+    "text": "-то",
+    "startMs": 14327,
+    "endMs": 14567,
+    "timestampMs": 14447,
+    "confidence": null
+  },
+  {
+    "text": " касается",
+    "startMs": 14567,
+    "endMs": 14987,
+    "timestampMs": 14777,
+    "confidence": null
+  },
+  {
+    "text": " вся",
+    "startMs": 14987,
+    "endMs": 15187,
+    "timestampMs": 15087,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " эта",
+    "startMs": 15187,
+    "endMs": 15527,
+    "timestampMs": 15357,
+    "confidence": null
+  },
+  {
+    "text": " история,",
+    "startMs": 15527,
+    "endMs": 15627,
+    "timestampMs": 15577,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " потому",
+    "startMs": 15867,
+    "endMs": 16087,
+    "timestampMs": 15977,
+    "confidence": null
+  },
+  {
+    "text": " что",
+    "startMs": 16087,
+    "endMs": 17107,
+    "timestampMs": 16597,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " вся",
+    "startMs": 17107,
+    "endMs": 17287,
+    "timestampMs": 17197,
+    "confidence": null
+  },
+  {
+    "text": " та",
+    "startMs": 17287,
+    "endMs": 17507,
+    "timestampMs": 17397,
+    "confidence": null
+  },
+  {
+    "text": " массовая",
+    "startMs": 17507,
+    "endMs": 17947,
+    "timestampMs": 17727,
+    "confidence": null
+  },
+  {
+    "text": " деятельность",
+    "startMs": 17947,
+    "endMs": 18407,
+    "timestampMs": 18177,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " против",
+    "startMs": 18407,
+    "endMs": 18767,
+    "timestampMs": 18587,
+    "confidence": null
+  },
+  {
+    "text": " меня",
+    "startMs": 18767,
+    "endMs": 18907,
+    "timestampMs": 18837,
+    "confidence": null
+  },
+  {
+    "text": " и",
+    "startMs": 18907,
+    "endMs": 19027,
+    "timestampMs": 18967,
+    "confidence": null
+  },
+  {
+    "text": " моей",
+    "startMs": 19027,
+    "endMs": 19567,
+    "timestampMs": 19297,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " компании,",
+    "startMs": 19567,
+    "endMs": 19767,
+    "timestampMs": 19667,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " которой",
+    "startMs": 19967,
+    "endMs": 20147,
+    "timestampMs": 20057,
+    "confidence": null
+  },
+  {
+    "text": " уже",
+    "startMs": 20147,
+    "endMs": 20367,
+    "timestampMs": 20257,
+    "confidence": null
+  },
+  {
+    "text": " сейчас",
+    "startMs": 20367,
+    "endMs": 20607,
+    "timestampMs": 20487,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " нет,",
+    "startMs": 20607,
+    "endMs": 21700,
+    "timestampMs": 21247,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Была",
+    "startMs": 21687,
+    "endMs": 22027,
+    "timestampMs": 21857,
+    "confidence": null
+  },
+  {
+    "text": " организована",
+    "startMs": 22027,
+    "endMs": 23187,
+    "timestampMs": 22607,
+    "confidence": null
+  },
+  {
+    "text": " с",
+    "startMs": 23187,
+    "endMs": 23347,
+    "timestampMs": 23267,
+    "confidence": null
+  },
+  {
+    "text": " участием",
+    "startMs": 23347,
+    "endMs": 23867,
+    "timestampMs": 23607,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " гавриков",
+    "startMs": 23867,
+    "endMs": 24567,
+    "timestampMs": 24217,
+    "confidence": null
+  },
+  {
+    "text": " из",
+    "startMs": 24567,
+    "endMs": 24747,
+    "timestampMs": 24657,
+    "confidence": null
+  },
+  {
+    "text": " этой",
+    "startMs": 24747,
+    "endMs": 25727,
+    "timestampMs": 25237,
+    "confidence": null
+  },
+  {
+    "text": " псевдопатриотической",
+    "startMs": 25727,
+    "endMs": 26847,
+    "timestampMs": 26287,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " организации",
+    "startMs": 26847,
+    "endMs": 27967,
+    "timestampMs": 27407,
+    "confidence": null
+  },
+  {
+    "text": " Это",
+    "startMs": 28087,
+    "endMs": 28387,
+    "timestampMs": 28237,
+    "confidence": null
+  },
+  {
+    "text": " только",
+    "startMs": 28387,
+    "endMs": 29167,
+    "timestampMs": 28777,
+    "confidence": null
+  },
+  {
+    "text": " маленькая",
+    "startMs": 29167,
+    "endMs": 29607,
+    "timestampMs": 29387,
+    "confidence": null
+  },
+  {
+    "text": " верхушка",
+    "startMs": 29607,
+    "endMs": 30087,
+    "timestampMs": 29847,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " айсберга.",
+    "startMs": 30087,
+    "endMs": 30367,
+    "timestampMs": 30227,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Ну",
+    "startMs": 30500,
+    "endMs": 30560,
+    "timestampMs": 30530,
+    "confidence": null
+  },
+  {
+    "text": " а",
+    "startMs": 30560,
+    "endMs": 30720,
+    "timestampMs": 30640,
+    "confidence": null
+  },
+  {
+    "text": " теперь",
+    "startMs": 30720,
+    "endMs": 30920,
+    "timestampMs": 30820,
+    "confidence": null
+  },
+  {
+    "text": " всё",
+    "startMs": 30920,
+    "endMs": 31080,
+    "timestampMs": 31000,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " встаёт",
+    "startMs": 31080,
+    "endMs": 31360,
+    "timestampMs": 31220,
+    "confidence": null
+  },
+  {
+    "text": " на",
+    "startMs": 31360,
+    "endMs": 31460,
+    "timestampMs": 31410,
+    "confidence": null
+  },
+  {
+    "text": " свои",
+    "startMs": 31460,
+    "endMs": 31760,
+    "timestampMs": 31610,
+    "confidence": null
+  },
+  {
+    "text": " места.",
+    "startMs": 31760,
+    "endMs": 31940,
+    "timestampMs": 31850,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]
