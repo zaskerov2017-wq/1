@@ -6,6 +6,11 @@
 
 ## Посмотреть результат
 
+Готовые файлы:
+
+- [Скачать предпросмотр — ZIP, 24 МБ](https://github.com/zaskerov2017-wq/1/raw/refs/heads/main/downloads/preview-lite.zip). Распакуйте архив и откройте `preview.html`.
+- [Скачать проект Remotion — ZIP, 32 МБ](https://github.com/zaskerov2017-wq/1/raw/refs/heads/main/downloads/remotion-project.zip).
+
 Отдельный файл `preview.html` содержит весь ролик, шрифт и Remotion Player. Скачайте его и откройте в современном Chrome, затем нажмите кнопку воспроизведения. Интернет для просмотра не нужен.
 
 В архив проекта этот большой HTML-файл не дублируется. Его можно заново собрать командой `npm run preview:build`; результат появится в `out/preview.html`. Если браузер ограничивает открытие локальных HTML, используйте `npm run preview:serve` и адрес, напечатанный сервером.
